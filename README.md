@@ -12,7 +12,7 @@ Ziel:
 
 
 #Anmerkungen
-Tensorflow funktioniert zurzeit bisher nur auf dem Windows-Pc
+Tensorflow funktioniert zurzeit nur auf dem Windows-Pc
 
 
 
