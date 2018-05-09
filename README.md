@@ -5,7 +5,7 @@
 
 
 # Zwischenstand
-Ziel:
+# Ziel:
 -     Grundlage: Programm soll funktionieren und Input in Form von Bildern/Abbildungen/JPEG etc. verarbeiten können.
 -     Zwischenziel: Programm soll zwischen Objekt und Mensch differenzieren können.
 -     Endziel: Programm soll Objekte erkennen(Prozentangaben), benennen und differenzieren können.
