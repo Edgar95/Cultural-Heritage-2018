@@ -11,16 +11,16 @@
 -     Endziel: Programm soll Objekte erkennen, benennen und differenzieren können.
 
 
-#Anmerkungen
+# Anmerkungen
 Tensorflow funktioniert zurzeit nur auf dem Windows-Pc
 
-#Projektbeschreibung
+# Projektbeschreibung
 
 Unsere Gruppe, bestehend aus Sören Pöschel, Edgar Fritz, Annika Fischer und Anna Casters, beschäftigt sich mit der Differenzierung zwischen Mensch (human) und Objekt. Tiere werden hierbei nicht beachtet. Unter Objekt verstehen wir alles, was nicht menschlich ist. Hierzu gehören sowohl Waffen und Ausstattung als auch Körperschmuck und Kleidung. Da der Fokus auf den unterschiedlichen Objekten liegt, ist das Geschlecht der abgebildeten Menschen unwichtig.
 
 Vorgehen
 Im ersten Schritt haben wir eine Bilderdatenbank erstellt. Hierfür wurden geeignete Figuren und Szenen aus den uns zur Verfügung gestellten Scans ausgeschnitten. Wichtig ist die Nummerierung der einzelnen Figuren im Bild zu haben, damit die Klassifizierung und Zuordnung innerhalb der Höhlenmalereien nicht verloren geht. 
-Auf den Bildern sollten bestenfalls keine Tiere zu sehen sein, da diese für unsere Arbeit irrelevant sind. Unsere Bilddatenbank beinhaltet einzelne Menschen ohne jegliche Objekte (nur der menschliche Körper), alle Objektarten als Einzelbilder und Figurszenen, also Abbildungen der Interaktionen der Menschen mit Objekten. Hierbei sind Abbildungen gemeint, auf denen Menschen Objekte zweckgemäß nutzen. Diese Bilder sind im Jpeg-Format nach einer bestimmten Struktur abgespeichert: AmisNummer_Figurnummerierung_Plate_Fix_Stichwort zur Abbildung  Beispiel: A38_480_7_N_human/arrow
+Auf den Bildern sollten bestenfalls keine Tiere zu sehen sein, da diese für unsere Arbeit irrelevant sind. Unsere Bilddatenbank beinhaltet einzelne Menschen ohne jegliche Objekte (nur der menschliche Körper), alle Objektarten als Einzelbilder und Figurszenen, also Abbildungen der Interaktionen der Menschen mit Objekten. Hierbei sind Abbildungen gemeint, auf denen Menschen Objekte zweckgemäß nutzen. Diese Bilder sind im Jpeg-Format nach einer bestimmten Struktur abgespeichert: AmisNummer_Figurnummerierung_Plate_Fix_Stichwort zur Abbildung --> Beispiel: A38_480_7_N_human/arrow
 Mehrere Figuren: A34_239-245_9_M_human/Perücken
 Dies ist besonders für die spätere Programmierung wichtig. Das Programm soll lernfähig sein. Beispiel: In der Bilddatenbank befinden sich mehrere Bilder, die einen Bogen aufzeigen. Durch das Abgleichen mehrerer Bogenbilder soll ein Bogen in einem größeren Kontext wiedererkannt werden. Anhand mehrerer Bogenabbildungen lernt das Programm also wie ein Bogen aussieht und soll somit fähig sein diesen auf allen anderen Bildern (Abbildungen von Mensch mit Objekt) zu erkennen. 
 
