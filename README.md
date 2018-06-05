@@ -12,7 +12,7 @@
 
 
 # Anmerkungen
-Tensorflow funktioniert zurzeit nur auf unseren Windows-PCs
+Tensorflow funktioniert zurzeit 2 Windows-PCs und einem MAC
 
 # Projektbeschreibung
 
