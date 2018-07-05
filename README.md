@@ -6,7 +6,7 @@
 # Ziel:
 -     Grundlage: Programm soll Input in Form von Bildern/Abbildungen/JPEG etc. verarbeiten können.
 -     Zwischenziel: Programm soll zwischen Objekt und Mensch differenzieren können.
--     Endziel: Programm soll Objekte erkennen, benennen und differenzieren können.
+-     Endziel: Programm soll Menschen und Objekte erkennen, benennen und markieren können.
 
 
 # Projektbeschreibung
