@@ -18,7 +18,13 @@ Das Programm soll lernfähig sein. Beispiel: In der Bilddatenbank befinden sich 
 
 ![Alt text](screenshots/object_detection_01.jpg?raw=true "ObjectDetection")
 
-Momentan befinden wir uns im vierten Training. Nach jedem Training wurden ein paar Codeveränderungen vorgenommen, um die Auswirkungen bzw. Veränderungen feststellen zu können. Unser Ziel ist, dass das Programm alle Objekte erkennt, was leider bisher noch nicht der Fall ist. Vor allem werden "humans" erkannt - allerdings auch mehrere "humans" innerhalb einer Menschabbildung. 
+Momentan befinden wir uns im vierten Training. Nach jedem Training wurden ein paar Codeveränderungen vorgenommen, um die Auswirkungen bzw. Veränderungen feststellen zu können. Unser Ziel ist, dass das Programm alle Objekte erkennt, was leider bisher noch nicht der Fall ist. Vor allem werden "humans" erkannt - allerdings auch mehrere "humans" innerhalb einer Menschabbildung.
+
+# Tutorials:
+Folgende Tutorials wurden genutzt:
+- https://becominghuman.ai/tensorflow-object-detection-api-tutorial-training-and-evaluating-custom-object-detector-ed2594afcf73
+- https://www.youtube.com/watch?v=JR8CmWyh2E8&index=5&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku 
+--> Video Part 1 - Part 6
 
 # Technologien:
 - Tensorflow - Tensorboard
