@@ -26,6 +26,9 @@ Folgende Tutorials wurden genutzt:
 - https://www.youtube.com/watch?v=JR8CmWyh2E8&index=5&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku 
 --> Video Part 1 - Part 6
 
+Schritte: 
+![Alt text](screenshots/Diagramm_Workflow.jpg?raw=true "ObjectDetection")
+
 # Technologien:
 - Tensorflow - Tensorboard
 - LabelImg
