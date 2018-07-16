@@ -27,7 +27,7 @@ Folgende Tutorials wurden genutzt:
 --> Video Part 1 - Part 6
 
 Schritte: 
-![Alt text](screenshots/Diagramm_Workflow.jpg?raw=true "ObjectDetection")
+![Alt text](Diagramm_Workflow.jpg?raw=true "ObjectDetection")
 
 # Technologien:
 - Tensorflow - Tensorboard
