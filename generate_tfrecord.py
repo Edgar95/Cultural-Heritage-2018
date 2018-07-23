@@ -28,6 +28,7 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 # human and objects
+# The if-elif Statements contain our 13 classes. The Statements can be expanded for more classes
 def class_text_to_int(row_label):
     if row_label == 'human':
         return 1
